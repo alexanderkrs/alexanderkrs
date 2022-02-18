@@ -24,9 +24,10 @@
 <div> 
   
   <a href="https://instagram.com/alexcfss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/acfalexs" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/kirinhas123" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://steamcommunity.com/id/krsNTC/" target="_blank"><img src="https://img.shields.io/badge/Steam-7289DA?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alexandercostafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://steamcommunity.com/id/krsNTC/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alexandercostafilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexander-costa-filho-bab2961b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/alexanderkrs/alexanderkrs/blob/output/github-contribution-grid-snake.svg)
