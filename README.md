@@ -16,7 +16,7 @@
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://github.com/alexanderkrs/alexanderkrs/blob/defa63229f9102f0da6547829036cd9174d51322/AlexGif1.gif?raw=true">
+  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://github.com/alexanderkrs/alexanderkrs/blob/defa63229f9102f0da6547829036cd9174d51322/AlexGif1.gif">
 </div>
   
   ##
