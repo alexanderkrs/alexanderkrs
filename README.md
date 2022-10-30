@@ -1,7 +1,5 @@
 ### E aiii 🤙
 
-- 🔭 Trabalhando com ORACLE APEX
-- 🌱 Estudando SQL, JAVA, HTML, CSS ...
 - ⚡ Games/Esportes
 - 📫 Contate-me no email: alexandercostafilho@gmail.com
 
